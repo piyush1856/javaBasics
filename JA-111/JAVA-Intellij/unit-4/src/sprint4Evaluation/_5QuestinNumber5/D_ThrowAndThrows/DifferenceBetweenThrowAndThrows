@@ -1,0 +1,4 @@
+
+The 'throw' keyword throw the exception from a method or a block but 'throws' keyword is used in signature of the method.
+
+Please refer to class file in same same package for example.

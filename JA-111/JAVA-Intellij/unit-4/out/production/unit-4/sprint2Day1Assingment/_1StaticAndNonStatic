@@ -1,0 +1,20 @@
+Q.What is the difference between the static and the non-static variables of a class explain it with an example.
+
+  //static variable //                             // non static variable//
+
+1.static belongs to class.                   1.non-static belongs to object.
+
+2. static variables we can access by         2.we can not access non-static variables
+class name.                                    with class name.
+example: ClassName.staticVariableName
+
+3.Same copy is shared among all objects      3.non-static variables having their own copy.
+ of class as it is a static variable
+
+4.Static variable initializes with           4.Non-static variable initializes with
+default values at the time of class            default values at the time of object
+loading/ during compilation.                   creation/during runtime.(new operator)
+
+5.example: In ATM welcome screen needs       5.Example: while account number,phone number
+to show for all users hence its variable       is different for different user hence they
+declaration is in static                       are declared as non-static.

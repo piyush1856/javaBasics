@@ -1,0 +1,10 @@
+We cannot refer to a specific member of child class in case if parent class referance and child class object
+so, we need to downcast the object to child class and hence, we achieve object down-casting.
+
+this is only possible with the super class reference and child class object.
+
+We can downcast the parent class variable to the child class object only if the Parent class variable
+points to the child class object, otherwise it will throw a runtime exception
+
+
+please refer to example file for further explanation

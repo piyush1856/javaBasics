@@ -1,0 +1,19 @@
+
+Abstraction is a process of hiding the implementation details and showing only the functionality to the user.
+
+Abstract method :
+    When we require only method declaration in parent class. This can be done by abstract method.
+    eg : to declare an abstract method, this form is used : abstract void methodName();
+
+    Some Benefits :
+    1. Helps to increase the security of code.
+    2. Helps to to make code more rigid.
+    3. Helps to hide details from the user.
+    4. It provides flexibility.
+    5. It provides scalability.
+    6. focuses more  on functionality and hide implementation because requirement is not their.
+    7. with abstract method and abstract class we achieve abstraction in JAVA.
+
+
+Abstract method is the method without body. and here abstract keyword is mandatory.
+An abstract class is mean to be extended. abstract class must be extended by the child class

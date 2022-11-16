@@ -1,0 +1,12 @@
+The 'finally' block is always executed whether an exception is handled or not,Therefore, it contains all the necessary
+statement that need to be executed regardless of the exception occurs or not.
+Finally is like a last wish before program terminate.
+
+'Final' keyword is used while initializing/declaring variable, method or class.
+When Final keyword id applied to :
+                    Variable : Variable value cannot be changed
+                    Method : Method cannot be over-ridden.
+                    Class : Class cannot be extended.
+
+
+Please refer to class file in same package for the example.

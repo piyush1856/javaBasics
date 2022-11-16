@@ -1,0 +1,6 @@
+upcasting is parent class referance and child class object.
+Further, when a parect class variable points to a child class object is called upcasting;
+
+In dynamic polymorphism you can call overwritten method of child class with reference to super class.
+
+refer to example file :

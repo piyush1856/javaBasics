@@ -1,0 +1,34 @@
+
+Method Overloading :-
+
+    1. Method Overloading happens with same method name but different parameters.
+    2. It is a compile-time polymorphism. It means which method will be called and decided at compile time.
+    3. It is also known as compile time polymorphism or static binding.
+    4. It may or may not require inheritance.
+    5. It occurs within the class.
+    6. In method overloading, the return type can or can not be the same, but we just have to change the parameter.
+    7. Static binding is being used for overloaded methods.
+    8. It gives better performance. The reason behind this is that the binding of overridden methods is being done at runtime.
+    9. Private and final methods can be overloaded.
+    10. Argument list should be different while doing method overloading.
+    11. In method overloading, methods must have the same name and different signatures.
+
+
+Method Overriding :-
+
+    1. Method Overriding happens with same method name and same parameters.
+    2. It is a run-time polymorphism. It means which method will be called and decided at runtime.
+    3. It is also known as runtime polymorphism or dynamic binding.
+    4. It is achieved through Inheritance.
+    5. It is performed in two classes with inheritance relationship.
+    6. In method overriding, the return type must be the same or co-variant.
+    7. Dynamic binding is being used for overriding methods.
+    8. Poor performance as compared to Method Overloading.
+    9. Private and final methods can’t be overridden.
+    10. Argument list should be same in method overriding.
+    11. In method overriding, methods must have the same name and same signature.
+
+    "Super Class reference and child class Object :- This is also one type of Upcasting"
+    "Use of @Override is recommended to avoid error/mistake. "
+
+

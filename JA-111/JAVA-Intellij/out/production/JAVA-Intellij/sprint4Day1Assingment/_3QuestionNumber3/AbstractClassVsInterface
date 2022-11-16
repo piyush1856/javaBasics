@@ -1,0 +1,17 @@
+
+Abstract Class :
+        1. An abstract class can have abstract na d non-abstract methods.
+        2. An abstract class doesn't suppoet multiple Inheritance.
+        3. An abstract class can have final, non-final, Static, non-static variable.
+        4. An abstract class can provide the implementation of Interface.
+        5. An abstract class can extend another java Class and can implement multiple java interface.
+        6. An abstract class can have class members like private,protected, etc.
+
+
+Interface :
+        1. An Interface can have only abstract  methods. Since Java 8, it can have default and static methods also.
+        2. An Interface supports multiple inheritance. .
+        3. An Interface has only static and final variables .
+        4. An Interface can't provide the implementation of abstract class .
+        5. An interface can extend another Java interface only.
+        6. Members of a Java interface are public by default.

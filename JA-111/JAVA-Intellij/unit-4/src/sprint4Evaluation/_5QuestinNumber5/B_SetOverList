@@ -1,0 +1,5 @@
+
+The main difference between List and Set is that List allows duplicates while Set doesn't allow duplicates.
+
+So, if you want to use duplicate objects, you should use List but in case, you don't want to use duplicate Object, 
+you should use Set.

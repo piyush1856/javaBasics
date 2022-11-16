@@ -1,0 +1,10 @@
+
+1. Single/simple Inheritance : Father -> Son
+2. Multilevel Inheritance : Father -> Son -> Grandson
+3. Hierarchical Inheritance : Pet -> cat&dog
+4. Multiple Inheritance : Dog&Cat -> Pet (not supported in java)
+        here pet will get confused either bark or meow because pet is derived
+        from both cat and dog. In c++ it is supported.
+5. Hybrid Inheritance : A -> B&C -> D
+        combination of both Hierarchical and multiple inheritance.
+        This is also called diamond inheritance.

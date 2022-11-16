@@ -1,0 +1,28 @@
+1. Explain the four pillars of object-oriented programming.
+Answer : The four pillars of object-oriented programming are:
+            1. Abstraction : An abstraction is a way of hiding the implementation details and showing ony the
+                             functionality to the user. In other word it ignores the irrelevant details and shows
+                             only the required one. It also reduces the duplication code.
+            2. Polymorphism : As object-oriented programming revolves mainly around objects and objects can behave
+                              differently in different scenarios. Polymorphism is nothing but one type but many forms.
+                              one type of object can behave differently depending upon the scenario.
+            3. Encaptulation : when variable and methods are put into a capsule, known as class, is called
+                               encapsulation. It is packing of data and functions into one component, for example class.
+            4. Inheritance : The property of acquiring all the properties and behaviour of the parent object by an
+                              object is termed as inheritance. It helps in re-usability of code.
+
+
+
+
+2. Differentiate between JRE, JVM and JDK.
+Answer : JRE : Java Runtime Environment (JRE) is the implementation of JVM and is defined as a software package that
+               provides jaca class libraries, along with JVM and other components to run application. It basically gives
+               runtime environment to JAVA
+               JRE = JVM + Libraries to run the application
+
+         JVM : Java Virtual Machine (JVM) is an abstract machine that is platform dependent and has functionality to
+               execute the JAVA byte code. It will help to run the code in different program.
+
+         JDK : Java Development Kit (JDK) is a software kit to develop application in java. In addition to JRE,
+               JDK also contain number of dvelopment tools (compilers, javaDOC, java Debugger  etc). It is
+               platform dependent. It is used to develop java program and java- based application.

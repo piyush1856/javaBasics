@@ -1,0 +1,14 @@
+
+The significance of using final keyword with the following programming constructirss are as follows:
+
+ 1. Variable : In case the final keyword is applied to a variable, its value cannot be changed once initialized.
+                eg: final int variable =10;
+                In the above example the value of variable will remain 10 throughout the program.
+
+ 2. Method : In case the final keyword is applied to a method, the method cannot be Overridden. It is just opposite of overriding.
+             eg: final void finalMethod(){}
+             In the above example the method cannot be overridden by the child class because of final keyword.
+
+ 3. class :  In case the final keyword is applied to a class, the class cannot be extended further.
+                          eg: final void finalClass{}
+                          In the above example the class cannot be extended to the child class because of final keyword.
